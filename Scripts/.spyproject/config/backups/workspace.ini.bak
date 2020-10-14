@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['Task1a.py', 'Task1b.py', 'Task1c.py', 'Task1d.py', 'Task1e.py']
+recent_files = ['..\\..\\ARGOSTracking\\scripts\\ARGOSTrackingTool.py']
 
